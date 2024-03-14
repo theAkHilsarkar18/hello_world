@@ -7,6 +7,9 @@ void main() {
 // main.dart
 // flutter
 
+// dart
+// ecommerce app
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
