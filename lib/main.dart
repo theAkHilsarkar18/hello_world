@@ -4,6 +4,9 @@ void main() {
   runApp(const MyApp());
 }
 
+// main.dart
+// flutter
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
